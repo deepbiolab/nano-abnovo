@@ -1,6 +1,6 @@
 # **Nano-AbNovo: Constrained Preference Optimization for Antibody Design**
 
-**Nano-AbNovo** is a lightweight framework for reproducing the core concepts from the paper *"AbNovo: Constrained Preference Optimization for Multi-objective Antibody Design"*. This project implements a diffusion-based model for antibody design, combined with constrained preference optimization (CPO) to meet multi-objective biophysical property requirements.
+**Nano-AbNovo** is a lightweight and educational version for reproducing the core concepts from the paper *"AbNovo: Constrained Preference Optimization for Multi-objective Antibody Design"*. This project implements a diffusion-based model for antibody design, combined with constrained preference optimization (CPO) to meet multi-objective biophysical property requirements.
 
 
 ## **Features**
@@ -27,6 +27,7 @@ url={https://openreview.net/forum?id=4ktJJBvvUd}
 
 ## **Acknowledgements**
 This project is inspired by the following works:
+- [AbNovo: Multi-objective antibody design with constrained preference optimization](https://openreview.net/forum?id=4ktJJBvvUd)
 - [DiffAb: Denoising Diffusion for Antibody Design](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v5.full.pdf)
 - [AbX: Score-based Diffusion for Antibody Design](https://openreview.net/pdf?id=1YsQI04KaN)
 - [ABDPO: Direct Preference Optimization for Antibody Binding](https://arxiv.org/html/2403.16576v1)
